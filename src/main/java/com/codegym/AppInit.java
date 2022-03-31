@@ -1,4 +1,4 @@
-package cg.wbd.grandemonstration;
+package com.codegym;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
